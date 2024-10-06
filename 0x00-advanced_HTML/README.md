@@ -113,17 +113,13 @@ Which tag should we use to draw an horizontal line? (usually used to separate to
 
 Which tag should we use to change the browser tab text?
 
+- [ ] <browser>
 
-<browser>
+- [ ] <head>
 
+- [ ] <title>
 
-<head>
-
-
-<title>
-
-
-<tab>
+- [ ] <tab>
 
 ### Question #5
 
