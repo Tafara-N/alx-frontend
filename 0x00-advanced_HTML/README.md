@@ -85,7 +85,9 @@ Which tag should we use to embed another website?
 
 ### Question #2
 
-Which information can we find in the tag `head`? Please select all correct answers
+Which information can we find in the tag `head`?
+
+Please select all correct answers
 
 - [ ] link to stylesheets
 
@@ -154,6 +156,7 @@ Which tag should we use to group elements in an unordered list?
 ### Question #7
 
 Which tag should we use to change the font weight of a text?
+
 Please select all correct answers
 
 - [ ] `<bold>`
