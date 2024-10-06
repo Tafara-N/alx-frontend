@@ -98,17 +98,13 @@ link to Twitter
 
 Which tag should we use to draw an horizontal line? (usually used to separate topics in a paragraph)
 
+- [ ] <hr>
 
-<hr>
+- [ ] <line>
 
+- [ ] <br>
 
-<line>
-
-
-<br>
-
-
-<break>
+- [ ] <break>
 
 ### Question #4
 
