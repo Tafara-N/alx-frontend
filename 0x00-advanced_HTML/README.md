@@ -101,13 +101,13 @@ Which tag should we use to draw an horizontal line? (usually used to separate to
 
 Which tag should we use to change the browser tab text?
 
-- [ ] <browser>
+- [ ] `<browser>`
 
-- [ ] <head>
+- [ ] `<head>`
 
-- [ ] <title>
+- [ ] `<title>`
 
-- [ ] <tab>
+- [ ] `<tab>`
 
 ### Question #5
 
@@ -129,45 +129,45 @@ How many levels are available in HTML5 for section headings?
 
 Which tag should we use to group elements in an unordered list?
 
-- [ ] <list>
+- [ ] `<list>`
 
-- [ ] <unordered list>
+- [ ] `<unordered list>`
 
-- [ ] <li>
+- [ ] `<li>`
 
-- [ ] <ul>
+- [ ] `<ul>`
 
-- [ ] <table>
+- [ ] `<table>`
 
-- [ ] <ol>
+- [ ] `<ol>`
 
 ### Question #7
 
 Which tag should we use to change the font weight of a text?
 Please select all correct answers
 
-- [ ] <bold>
+- [ ] `<bold>`
 
-- [ ] <strong>
+- [ ] `<strong>`
 
-- [ ] <h1>
+- [ ] `<h1>`
 
-- [ ] <b>
+- [ ] `<b>`
 
-- [ ] <em>
+- [ ] `<em>`
 
-- [ ] <i>
+- [ ] `<i>`
 
 ### Question #8
 
 Which tag should we use to create an hyperlink?
 
-- [ ] <a>
+- [ ] `<a>`
 
-- [ ] <link>
+- [ ] `<link>`
 
-- [ ] <to>
+- [ ] `<to>`
 
-- [ ] <div>
+- [ ] `<div>`
 
-- [ ] <p>
+- [ ] `<p>`
