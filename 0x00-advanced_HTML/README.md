@@ -14,8 +14,9 @@ In this project, you will learn how to use HTML tags to structure a web page. No
 
 Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
 
-Resources
-Read or watch:
+# Resources
+
+**Read or watch:**
 
 HTML 5.2
 HTML: HyperText Markup Language | MDN
