@@ -81,7 +81,7 @@ Which tag should we use to embed another website?
 
 ### Question #2
 
-Which information can we find in the tag head? Please select all correct answers
+Which information can we find in the tag `head`? Please select all correct answers
 
 - [ ] link to stylesheets
 
