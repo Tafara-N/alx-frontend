@@ -192,12 +192,12 @@ Please select all correct answers
 
 Which tag should we use to create an hyperlink?
 
-<a>
+- [ ] <a>
 
-<link>
+- [ ] <link>
 
-<to>
+- [ ] <to>
 
-<div>
+- [ ] <div>
 
-<p>
+- [ ] <p>
