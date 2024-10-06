@@ -4,6 +4,7 @@
 
 - [HTML - elements of a web page](https://intranet.alxswe.com/concepts/543)
 
+![I have leart HTML](learnt_html.jpg)
 
 Welcome!
 Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
