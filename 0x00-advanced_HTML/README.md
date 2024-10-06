@@ -94,7 +94,8 @@ navigation
 
 link to Twitter
 
-Question #3
+### Question #3
+
 Which tag should we use to draw an horizontal line? (usually used to separate topics in a paragraph)
 
 
