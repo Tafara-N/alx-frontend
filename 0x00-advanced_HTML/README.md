@@ -109,7 +109,8 @@ Which tag should we use to draw an horizontal line? (usually used to separate to
 
 <break>
 
-Question #4
+### Question #4
+
 Which tag should we use to change the browser tab text?
 
 
