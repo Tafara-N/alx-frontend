@@ -49,9 +49,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Sitemap of the project
 
+![Techium Sitemap](sitemap.png)
 
 ## Wireframe of `Techium` project
 
+![Techium Wireframe](wireframe.png)
 
 ## Quiz questions
 
