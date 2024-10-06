@@ -171,23 +171,17 @@ Which tag should we use to group elements in an unordered list?
 Which tag should we use to change the font weight of a text?
 Please select all correct answers
 
+- [ ] <bold>
 
-<bold>
+- [ ] <strong>
 
+- [ ] <h1>
 
-<strong>
+- [ ] <b>
 
+- [ ] <em>
 
-<h1>
-
-
-<b>
-
-
-<em>
-
-
-<i>
+- [ ] <i>
 
 ### Question #8
 
