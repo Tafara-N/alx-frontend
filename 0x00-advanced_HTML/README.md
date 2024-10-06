@@ -65,19 +65,15 @@ Question #1
 Which tag should we use to embed another website?
 
 
-<code>
+- [ ] <code>
 
+- [ ] <div>
 
-<div>
+- [ ] <a>
 
+- [ ] <p>
 
-<a>
-
-
-<p>
-
-
-<iframe>
+- [ ] <iframe>
 
 ### Question #2
 
