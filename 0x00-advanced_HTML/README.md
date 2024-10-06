@@ -51,27 +51,27 @@ Wireframe of Techium project
 
 Which tag should we use to embed an image?
 
-- [ ] <caption>
+- [ ] `<caption>`
 
-- [ ] <img>
+- [ ] `<img>`
 
-- [ ] <iframe>
+- [ ] `<iframe>`
 
-- [ ] <div>
+- [ ] `<div>`
 
 ### Question #1
 
 Which tag should we use to embed another website?
 
-- [ ] <code>
+- [ ] `<code>`
 
-- [ ] <div>
+- [ ] `<div>`
 
-- [ ] <a>
+- [ ] `<a>`
 
-- [ ] <p>
+- [ ] `<p>`
 
-- [ ] <iframe>
+- [ ] `<iframe>`
 
 ### Question #2
 
@@ -89,13 +89,13 @@ Which information can we find in the tag `head`? Please select all correct answe
 
 Which tag should we use to draw an horizontal line? (usually used to separate topics in a paragraph)
 
-- [ ] <hr>
+- [ ] `<hr>`
 
-- [ ] <line>
+- [ ] `<line>`
 
-- [ ] <br>
+- [ ] `<br>`
 
-- [ ] <break>
+- [ ] `<break>`
 
 ### Question #4
 
