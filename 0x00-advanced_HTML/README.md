@@ -46,20 +46,18 @@ Wireframe of Techium project
 
 
 Quiz questions
-Question #0
+
+### Question #0
+
 Which tag should we use to embed an image?
 
+- [ ] <caption>
 
-<caption>
+- [ ] <img>
 
+- [ ] <iframe>
 
-<img>
-
-
-<iframe>
-
-
-<div>
+- [ ] <div>
 
 ### Question #1
 
