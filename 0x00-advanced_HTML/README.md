@@ -22,7 +22,7 @@ Important note: **details are important!** lowercase vs uppercase / wrong letter
 - [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/)
 - [Can I use… Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-- [HTML Cheat Sheet - WebsiteSetup]()
+- [HTML Cheat Sheet - WebsiteSetup](https://websitesetup.org/html5-cheat-sheet/)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
