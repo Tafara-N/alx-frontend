@@ -128,23 +128,17 @@ Which tag should we use to change the browser tab text?
 
 How many levels are available in HTML5 for section headings?
 
+- [ ] 10
 
-10
+- [ ] 8
 
+- [ ] 1
 
-8
+- [ ] 2
 
+- [ ] 6
 
-1
-
-
-2
-
-
-6
-
-
-4
+- [ ] 4
 
 ### Question #6
 
