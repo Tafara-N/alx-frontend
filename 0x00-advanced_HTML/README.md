@@ -124,7 +124,8 @@ Which tag should we use to change the browser tab text?
 
 <tab>
 
-Question #5
+### Question #5
+
 How many levels are available in HTML5 for section headings?
 
 
