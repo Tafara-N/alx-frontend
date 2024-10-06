@@ -145,26 +145,21 @@ How many levels are available in HTML5 for section headings?
 
 4
 
-Question #6
+### Question #6
+
 Which tag should we use to group elements in an unordered list?
 
+- [ ] <list>
 
-<list>
+- [ ] <unordered list>
 
+- [ ] <li>
 
-<unordered list>
+- [ ] <ul>
 
+- [ ] <table>
 
-<li>
-
-
-<ul>
-
-
-<table>
-
-
-<ol>
+- [ ] <ol>
 
 ### Question #7
 
