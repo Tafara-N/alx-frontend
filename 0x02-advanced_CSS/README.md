@@ -17,7 +17,7 @@ CSS specificity calculator
 Play with CSS selector
 
 # Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 - Selectors, properties, and values
 - The difference between block and inline styling
