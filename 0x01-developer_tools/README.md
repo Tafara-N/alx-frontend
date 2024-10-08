@@ -120,7 +120,7 @@ Take a screenshot of it
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 - On the right panel, click on the `Computed tab`
-- Then, select the h2 with the text `ABOUT`
+- Then, select the `h2` with the text `ABOUT`
 - Search for `margin-bottom`
 
 Which file is coming from that declaration?
