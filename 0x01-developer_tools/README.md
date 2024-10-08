@@ -469,16 +469,15 @@ Repo:
 
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 31-session_storage_key
+File: `31-session_storage_key`
 
-32. Service workers
-mandatory
+### 32. Service workers
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Does this page have any service workers? Yes or No
 
 Repo:
-
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: `32-service_workers`
