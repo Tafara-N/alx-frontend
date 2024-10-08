@@ -1,9 +1,11 @@
-Concepts
-For this project, we expect you to look at these concepts:
+# Concepts
 
-CSS fundamentals
-CSS advanced
+*For this project, we expect you to look at these concepts:*
 
+- [CSS fundamentals](https://intranet.alxswe.com/concepts/544)
+- [CSS advanced](https://intranet.alxswe.com/concepts/545)
+
+![Add CSS](add_css.jpg)
 
 Resources
 Read or watch
