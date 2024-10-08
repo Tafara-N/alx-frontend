@@ -383,8 +383,8 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 25-contrast_issue
 
-26. No alt
-mandatory
+### 26. No alt
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Which classes are on the images that have no alt attribute?
