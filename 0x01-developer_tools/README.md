@@ -497,7 +497,8 @@ GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: 33-ssl_cert
 
-34. Expiration date
+### 34. Expiration date
+
 mandatory
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
