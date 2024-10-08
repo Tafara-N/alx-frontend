@@ -13,7 +13,6 @@
 
 - [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
 - [Can I use,,, Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-- [CSS Reference]()
 - [CSS Properties | HTML Dog](https://htmldog.com/references/css/properties/)
 - [Box Sizing](https://css-tricks.com/box-sizing/)
 - [CSS specificity calculator](https://codecaptain.io/tools/css-specificity-calculator)
