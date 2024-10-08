@@ -158,13 +158,13 @@ What is the equivalent value of the hexadecimal background-color, in HSL?
 - Directory: `0x01-developer_tools`
 - File: 8-hsl
 
-9. The max-width of the container
-mandatory
+### 9. The max-width of the container
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-What is the max-width for the first .container in the section “About”? (your browser width must be between 1250px and 1440px and with a zoom at 100%)
+What is the `max-width` for the first `.container` in the section “About”? (your browser width must be between 1250px and 1440px and with a zoom at 100%)
 
-(format of your answer should be max-width: <VALUE>;, example: max-width: 670px)
+(format of your answer should be `max-width: <VALUE>;`, example: `max-width: 670px`)
 
 **Repo:**
 - GitHub repository: `alx-frontend`
