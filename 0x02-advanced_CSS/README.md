@@ -485,51 +485,48 @@ p.my_class {
 
 20px
 
-Question #3
-What’s the impact of position: absolute on an element?
+### Question #3
 
+What’s the impact of `position: absolute` on an element?
 
-the element position will be relative to the viewport
+- [ ] the element position will be relative to the viewport
 
+- [ ] the element position will be relative to its normal position
 
-the element position will be relative to its normal position
+- [ ] the element position will be relative to the nearest positioned ancestor element
 
+- [ ] the element position will be based on the user’s scroll position
 
-the element position will be relative to the nearest positioned ancestor element
+### Question #4
 
+What’s the `font-size` in pixel of an element `p.my_class`?
 
-the element position will be based on the user’s scroll position
-
-Question #4
-What’s the font-size in pixel of an element p.my_class?
-
+```css
 p {
     font-size: 12px;
 }
 p.my_class {
     font-size: 1.5em;
 }
+```
 
-24px
+- [ ] 24px
 
+- [ ] 20px
 
-20px
+- [ ] 10px
 
+- [ ] 12px
 
-10px
+- [ ] 18px
 
+- [ ] 16px
 
-12px
+### Question #5
 
+What’s the final color text of `<h1>` in this code?
 
-18px
-
-
-16px
-
-Question #5
-What’s the final color text of <h1> in this code?
-
+```html
 <html>
     <head>
         <style>
@@ -548,50 +545,45 @@ What’s the final color text of <h1> in this code?
             <h1 class="title">Hello</h1>
     </body>
 </html>
+```
+
 Please answer without executing the code, just by reading
 
+- [ ] #0000FF
 
-#0000FF
+- [ ] Black (default value)
 
+- [ ] #FF0000
 
-Black (default value)
+- [ ] #00FF00
 
+### Question #6
 
-#FF0000
+`padding` is adding space between?
 
+- [ ] Between the border of the element and external elements (parent and siblings elements)
 
-#00FF00
+- [ ] Between the inside content and the border of the element
 
-Question #6
-padding is adding space between?
+### Question #7
 
+What’s the impact of `overflow-y: auto` on an element?
 
-Between the border of the element and external elements (parent and siblings elements)
+- [ ] no impact on the element
 
+- [ ] the element allows horizontal scrolling if the content is too large
 
-Between the inside content and the border of the element
+- [ ] the element allows vertical scrolling if the content is too long
 
-Question #7
-What’s the impact of overflow-y: auto on an element?
+- [ ] the element doesn’t allow vertical and horizontal scrolling if the content is too long/large
 
+- [ ] the element allows vertical and horizontal scrolling if the content is too long/large
 
-no impact on the element
+### Question #8
 
+What’s the final color text of `<h1>` in this code?
 
-the element allows horizontal scrolling if the content is too large
-
-
-the element allows vertical scrolling if the content is too long
-
-
-the element doesn’t allow vertical and horizontal scrolling if the content is too long/large
-
-
-the element allows vertical and horizontal scrolling if the content is too long/large
-
-Question #8
-What’s the final color text of <h1> in this code?
-
+```html
 <html>
     <head>
         <style>
@@ -604,23 +596,23 @@ What’s the final color text of <h1> in this code?
             <h1>Hello</h1>
     </body>
 </html>
+```
+
 Please answer without executing the code, just by reading
 
+- [ ] #0000FF
 
-#0000FF
+- [ ] Black (default value)
 
+- [ ] #FF0000
 
-Black (default value)
+- [ ] #00FF00
 
+### Question #9
 
-#FF0000
+What’s the final color text of `<h1>` in this code?
 
-
-#00FF00
-
-Question #9
-What’s the final color text of <h1> in this code?
-
+```html
 <html>
     <head>
         <style>
@@ -633,23 +625,23 @@ What’s the final color text of <h1> in this code?
             <h1>Hello</h1>
     </body>
 </html>
+```
+
 Please answer without executing the code, just by reading
 
+- [ ] #0000FF
 
-#0000FF
+- [ ] Black (default value)
 
+- [ ] #FF0000
 
-Black (default value)
+- [ ] #00FF00
 
+### Question #10
 
-#FF0000
+What’s the final color text of `<h1>` in this code?
 
-
-#00FF00
-
-Question #10
-What’s the final color text of <h1> in this code?
-
+```html
 <html>
     <head>
         <style>
@@ -662,32 +654,31 @@ What’s the final color text of <h1> in this code?
             <h1>Hello</h1>
     </body>
 </html>
+```
+
 Please answer without executing the code, just by reading
 
+- [ ] #0000FF
 
-#0000FF
+- [ ] Black (default value)
 
+- [ ] #FF0000
 
-Black (default value)
+- [ ] #00FF00
 
+### Question #11
 
-#FF0000
+`margin` is adding space between?
 
+- [ ] Between the border of the element and external elements (parent and siblings elements)
 
-#00FF00
+- [ ] Between the inside content and the border of the element
 
-Question #11
-margin is adding space between?
+### Question #12
 
+What’s the final color text of `<h1>` in this code?
 
-Between the border of the element and external elements (parent and siblings elements)
-
-
-Between the inside content and the border of the element
-
-Question #12
-What’s the final color text of <h1> in this code?
-
+```html
 <html>
     <head>
         <style>
@@ -700,23 +691,23 @@ What’s the final color text of <h1> in this code?
             <h1>Hello</h1>
     </body>
 </html>
+```
+
 Please answer without executing the code, just by reading
 
+- [ ] #0000FF
 
-#0000FF
+- [ ] Black (default value)
 
+- [ ] #FF0000
 
-Black (default value)
+- [ ] #00FF00
 
+### Question #13
 
-#FF0000
+What’s the final color text of `<h1>` in this code?
 
-
-#00FF00
-
-Question #13
-What’s the final color text of <h1> in this code?
-
+```html
 <html>
     <head>
         <style>
@@ -732,19 +723,17 @@ What’s the final color text of <h1> in this code?
             <h1>Hello</h1>
     </body>
 </html>
+```
+
 Please answer without executing the code, just by reading
 
+- [ ] #0000FF
 
-#0000FF
+- [ ] Black (default value)
 
+- [ ] #FF0000
 
-Black (default value)
-
-
-#FF0000
-
-
-#00FF00
+- [ ] #00FF00
 
 ### Question #14
 
