@@ -7,7 +7,7 @@ In this project, you will analyze this website [https://dev-tools.alx-tools.com/
 **Read or watch:**
 
 - [Chrome DevTools | Tools for Web Developers | Google Developers](https://developer.chrome.com/docs/devtools/overview)
-- [Introduction | Down and Dirty with Chrome Developer Tools]()
+- [Introduction | Down and Dirty with Chrome Developer Tools](https://blittle.github.io/chrome-dev-tools/)
 - [Firefox Developer Tools | MDN]()
 - [Dev Tips - Developer Tips by Umar Hansa]()
 - [Get Started With Viewing And Changing CSS | Tools for Web Developers]()
