@@ -200,21 +200,21 @@ Answer file must contain the value in Byte (example: 6144 for 6KB)
 - File: 11-coverage
 
 12. Emulate the print version of the webpage
-mandatory
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Take a screenshot of the homepage, only emulation the CSS print version of the website.
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 12-print_version.png
-13. Using the console
-mandatory
+- File: `12-print_version.png`
+
+### 13. Using the console
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Select the Avatar image in the header and type $0 in the console. Enter.
+Select the Avatar image in the header and type `$0` in the console. Enter.
 
 What does it return?
 
