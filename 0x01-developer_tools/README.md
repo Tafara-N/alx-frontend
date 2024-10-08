@@ -328,28 +328,26 @@ The website uses a font library for their icons, which one is it?
 - Directory: `0x01-developer_tools`
 - File: 21-hbtn_font_lib
 
-22. XHR calls
-mandatory
+### 22. XHR calls
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 What is the name of the resource that generates 1 XHR calls?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 22-xhr_calls
+- File: `22-xhr_calls`
 
-23. Audits panel
-mandatory
+### 23. Audits panel
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-What is the notation for Performance (for desktop mode and no throttling - also called Lighthouse)?
+What is the notation for `Performance` (for desktop mode and no throttling - also called Lighthouse)?
 
 Take a screenshot of it
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
 - File: `23-performance_audit.png`
