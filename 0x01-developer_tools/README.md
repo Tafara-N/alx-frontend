@@ -219,22 +219,20 @@ Select the Avatar image in the header and type $0 in the console. Enter.
 What does it return?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 13-logo_dollar0
+- File: `13-logo_dollar0`
 
-14. Write code in the console
-mandatory
+### 14. Write code in the console
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Write in the console console.log(document.title), what is returned?
+Write in the console `console.log(document.title)`, what is returned?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 14-doc_title
+- File: `14-doc_title`
 
 ### 15. Web framework
 
