@@ -11,13 +11,13 @@
 
 **Read or watch**
 
-- [CSS Reference - A free visual guide to CSS]()
-- [Can I use,,, Support tables for HTML5, CSS3, etc]()
+- [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
+- [Can I use,,, Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 - [CSS Reference]()
-- [CSS Properties | HTML Dog]()
-- [Box Sizing]()
-- [CSS specificity calculator]()
-- [Play with CSS selector]()
+- [CSS Properties | HTML Dog](https://htmldog.com/references/css/properties/)
+- [Box Sizing](https://css-tricks.com/box-sizing/)
+- [CSS specificity calculator](https://codecaptain.io/tools/css-specificity-calculator)
+- [Play with CSS selector](https://frontend30.com/css-selectors-cheatsheet/)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
