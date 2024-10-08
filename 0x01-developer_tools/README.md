@@ -54,32 +54,33 @@ Take a screenshot of the website using the device toolbar Choose iPhone X and sh
 
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Change the background-color of the body to use #4233bd Take a screenshot of the PORTFOLIO section
+Change the background-color of the body to use `#4233bd` Take a screenshot of the `PORTFOLIO` section
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 1-change_bg_color.png
-2. Force element state
-mandatory
+- File: `1-change_bg_color.png`
+
+### 2. Force element state
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Force the hover state of the “cake” block in the section Portfolio Take a screenshot of it
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 2-pathways_menu.png
-3. Copy all the styles of the button
-mandatory
+- File: `2-pathways_menu.png`
+
+### 3. Copy all the styles of the button
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Select the Download me! and copy all the CSS styling that is applied on this button.
+Select the `Download me!` and copy all the CSS styling that is applied on this button.
 
 Your answer file must contain all CSS styling one per line like this example:
 
+```bash
 $ head -2 3-button_styles
 border-radius: 1px;
 color: #FF00FF;
