@@ -431,59 +431,52 @@ p {
 p.my_class {
     font-size: 0.25rem;
 }
+```
 
-10px
+- [ ] 10px
 
+- [ ] 3px
 
-3px
+- [ ] 4px
 
+- [ ] 6px
 
-4px
+### Question #1
 
+What’s `z-index`?
 
-6px
+- [ ] z-index is defining the left position of an element
 
-Question #1
-What’s z-index?
+- [ ] z-index is defining the stack position of an element (from front to background)
 
+- [ ] z-index is defining the SEO indexing position
 
-z-index is defining the left position of an element
+### Question #2
 
+What’s the `font-size` in pixel of an element `p.my_class` if the default `p font-size` is 16px?
 
-z-index is defining the stack position of an element (from front to background)
-
-
-z-index is defining the SEO indexing position
-
-Question #2
-What’s the font-size in pixel of an element p.my_class if the default p font-size is 16px?
-
+```css
 p {
     font-size: 12px;
 }
 p.my_class {
     font-size: 2.25rem;
 }
+```
 
-64px
+- [ ] 64px
 
+- [ ] 12px
 
-12px
+- [ ] 43px
 
+- [ ] 16px
 
-43px
+- [ ] 36px
 
+- [ ] 27px
 
-16px
-
-
-36px
-
-
-27px
-
-
-20px
+- [ ] 20px
 
 ### Question #3
 
