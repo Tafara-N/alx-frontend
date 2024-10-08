@@ -111,36 +111,35 @@ Remove the div of the “cake” box in the section Portfolio
 Take a screenshot of it
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 5-deleted_elements.png
-6. Where is it coming from?
-mandatory
+- File: `5-deleted_elements.png`
+
+### 6. Where is it coming from?
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-On the right panel, click on the Computed tab
-Then, select the h2 with the text ABOUT
-Search for margin-bottom
+- On the right panel, click on the `Computed tab`
+- Then, select the h2 with the text `ABOUT`
+- Search for `margin-bottom`
+
 Which file is coming from that declaration?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 6-declaration_file
+- File: `6-declaration_file`
 
-7. How many listeners
-mandatory
+### 7. How many listeners
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 How many times click events are referenced in JavaScript files?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 7-number_of_listeners
+- File: `7-number_of_listeners`
 
 ### 8. What is the HSL code
 
