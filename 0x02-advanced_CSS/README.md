@@ -813,26 +813,26 @@ Black (default value)
 
 #00FF00
 
-Question #16
-What’s the font-size in pixel of an element p.my_class?
+### Question #16
 
+What’s the `font-size` in pixel of an element `p.my_class`?
+
+```css
 p {
     font-size: 12px;
 }
 p.my_class {
     font-size: 0.25em;
 }
+```
 
-10px
+- [ ] 10px
 
+- [ ] 3px
 
-3px
+- [ ] 4px
 
-
-4px
-
-
-6px
+- [ ] 6px
 
 ### Question #17
 
