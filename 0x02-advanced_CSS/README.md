@@ -7,16 +7,17 @@
 
 ![Add CSS](add_css.jpg)
 
-Resources
-Read or watch
+# Resources
 
-CSS Reference - A free visual guide to CSS
-Can I use,,, Support tables for HTML5, CSS3, etc
-CSS Reference
-CSS Properties | HTML Dog
-Box Sizing
-CSS specificity calculator
-Play with CSS selector
+**Read or watch**
+
+- [CSS Reference - A free visual guide to CSS]()
+- [Can I use,,, Support tables for HTML5, CSS3, etc]()
+- [CSS Reference]()
+- [CSS Properties | HTML Dog]()
+- [Box Sizing]()
+- [CSS specificity calculator]()
+- [Play with CSS selector]()
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
