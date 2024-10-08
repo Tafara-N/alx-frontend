@@ -254,8 +254,8 @@ D. Angular JS
 - Directory: `0x01-developer_tools`
 - File: 15-hbtn_framework
 
-16. Homepage weight
-mandatory
+### 16. Homepage weight
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 What is the total weight of the page (with all the elements)?
@@ -263,12 +263,12 @@ What is the total weight of the page (with all the elements)?
 Take a screenshot of it
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 16-weight.png
-17. Number of requests
-mandatory
+- File: `16-weight.png`
+
+### 17. Number of requests
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 What is the number of requests done when accessing this page?
@@ -276,7 +276,6 @@ What is the number of requests done when accessing this page?
 Take a screenshot of it
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
 - File: `17-requests.png`
