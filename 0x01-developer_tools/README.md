@@ -388,12 +388,11 @@ C. Background and foreground colors do not have a sufficient contrast ratio.
 
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Which classes are on the images that have no alt attribute?
+Which classes are on the images that have no `alt` attribute?
 
-Your answer file must contains all classes, example: .my_class.my_second if 2 classes
+Your answer file must contains all classes, example: `.my_class.my_second` if 2 classes
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
 - File: `26-no_alt`
