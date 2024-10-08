@@ -41,7 +41,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ### 0. Responsive device
 
-Go to `[https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)`
+Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Take a screenshot of the website using the device toolbar Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering)
 
