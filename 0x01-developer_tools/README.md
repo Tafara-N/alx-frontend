@@ -153,10 +153,9 @@ What is the equivalent value of the hexadecimal background-color, in HSL?
 (format of your answer should be: `hsl(<VALUES>);`, example: `hsl(241, 23%, 24%);` following by a new line)
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 8-hsl
+- File: `8-hsl`
 
 ### 9. The max-width of the container
 
