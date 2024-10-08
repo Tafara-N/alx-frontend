@@ -9,7 +9,7 @@ In this project, you will analyze this website [https://dev-tools.alx-tools.com/
 - [Chrome DevTools | Tools for Web Developers | Google Developers](https://developer.chrome.com/docs/devtools/overview)
 - [Introduction | Down and Dirty with Chrome Developer Tools](https://blittle.github.io/chrome-dev-tools/)
 - [Firefox Developer Tools | MDN](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
-- [Dev Tips - Developer Tips by Umar Hansa]()
+- [Dev Tips - Developer Tips by Umar Hansa](https://umaar.com/dev-tips/)
 - [Get Started With Viewing And Changing CSS | Tools for Web Developers]()
 - [Keeping it simple with the JavaScript console - LogRocket Blog]()
 - [Inspect Network Activity - Chrome DevTools 101]()
