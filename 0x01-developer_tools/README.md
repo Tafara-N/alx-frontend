@@ -414,18 +414,17 @@ D. rel = "nofollow"
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 27-missing_attr
+- File: `27-missing_attr`
 
-28. SEO
-mandatory
+### 28. SEO
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Which <a> links don’t have enough text description?
+Which `<a>` links don’t have enough text description?
 
 Take a screenshot of it
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
 - File: `28-unclear_desc.png`
@@ -442,7 +441,6 @@ The `sources` panel allow you to edit files, add breakpoints to analyse your Jav
 - Take a screenshot of the result in your console
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
 - File: `29-how_many_colors.png`
