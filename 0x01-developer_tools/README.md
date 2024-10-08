@@ -481,21 +481,20 @@ Repo:
 
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 32-service_workers
+File: `32-service_workers`
 
-33. Security
-mandatory
+### 33. Security
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-The security panel allows you to make sure HTTS is properly implement on a webpage.
+The `security` panel allows you to make sure HTTS is properly implement on a webpage.
 
 Which organization issued the SSL certificate for this page?
 
 Repo:
-
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 33-ssl_cert
+File: `33-ssl_cert`
 
 ### 34. Expiration date
 
