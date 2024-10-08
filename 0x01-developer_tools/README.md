@@ -84,29 +84,31 @@ $ head -2 3-button_styles
 border-radius: 1px;
 color: #FF00FF;
 $
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 3-button_styles
+- File: `3-button_styles`
 
-4. Change button styles
-mandatory
+### 4. Change button styles
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-All primary buttons (btn-primary) should have the #0080ee color as a background color
-All outlined buttons light (btn-outline-light) should have #0020aa for the text color
-Screenshot all buttons that changed and merge it to one image
-**Repo:**
+- All primary buttons (`btn-primary`) should have the `#0080ee` color as a background color
+- All outlined buttons light (`btn-outline-light`) should have `#0020aa` for the text color
+- Screenshot all buttons that changed and merge it to one image
 
+**Repo:**
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 4-new_buttons.png
-5. Remove part of the website
-mandatory
+- File: `4-new_buttons.png`
+
+### 5. Remove part of the website
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Remove the div of the “cake” box in the section Portfolio
+Remove the `div` of the “cake” box in the section Portfolio
 
 Take a screenshot of it
 
