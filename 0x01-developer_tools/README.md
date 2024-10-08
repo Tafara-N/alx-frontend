@@ -46,12 +46,12 @@ Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 Take a screenshot of the website using the device toolbar Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering)
 
 Repo:
-
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 0-responsive_device.png
-1. Change the background color
-mandatory
+File: `0-responsive_device.png`
+
+### 1. Change the background color
+
 Go to https://dev-tools.alx-tools.com/
 
 Change the background-color of the body to use #4233bd Take a screenshot of the PORTFOLIO section
