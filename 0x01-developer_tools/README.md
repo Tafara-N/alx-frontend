@@ -184,20 +184,20 @@ Take a screenshot of it
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 10-moved_around.png
-11. Coverage
-mandatory
+- File: `10-moved_around.png`
+
+### 11. Coverage
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-How many bytes that freelancer.css covers?
+How many bytes that `freelancer.css` covers?
 
-Answer file must contain the value in Byte (example: 6144 for 6KB)
+Answer file must contain the value in Byte (example: `6144` for 6KB)
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 11-coverage
+- File: `11-coverage`
 
 12. Emulate the print version of the webpage
 
