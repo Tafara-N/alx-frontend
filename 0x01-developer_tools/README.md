@@ -365,9 +365,10 @@ Repo:
 
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 24-static_assets_audit.png
-25. Accessibility
-mandatory
+File: `24-static_assets_audit.png`
+
+### 25. Accessibility
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 When you run an accessibility audit, what is the contrast issue?
@@ -381,7 +382,7 @@ Repo:
 
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 25-contrast_issue
+File: `25-contrast_issue`
 
 ### 26. No alt
 
