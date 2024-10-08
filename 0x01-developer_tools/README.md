@@ -167,13 +167,12 @@ What is the max-width for the first .container in the section “About”? (your
 (format of your answer should be max-width: <VALUE>;, example: max-width: 670px)
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 9-max_width
+- File: `9-max_width`
 
-10. Moving around
-mandatory
+### 10. Moving around
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Switch the section “About” and “Portfolio”
@@ -181,7 +180,6 @@ Switch the section “About” and “Portfolio”
 Take a screenshot of it
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
 - File: `10-moved_around.png`
