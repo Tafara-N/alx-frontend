@@ -12,7 +12,7 @@ In this project, you will analyze this website [https://dev-tools.alx-tools.com/
 - [Dev Tips - Developer Tips by Umar Hansa](https://umaar.com/dev-tips/)
 - [Get Started With Viewing And Changing CSS | Tools for Web Developers](https://developer.chrome.com/docs/devtools/css)
 - [Keeping it simple with the JavaScript console - LogRocket Blog](https://blog.logrocket.com/keeping-it-simple-with-the-javascript-console/)
-- [Inspect Network Activity - Chrome DevTools 101]()
+- [Inspect Network Activity - Chrome DevTools 101](https://www.youtube.com/watch?v=e1gAyQuIFQo)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
