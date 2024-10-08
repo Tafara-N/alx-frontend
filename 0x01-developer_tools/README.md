@@ -2,8 +2,9 @@
 
 In this project, you will analyze this website [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/).
 
-Resources
-Read or watch:
+# Resources
+
+**Read or watch:**
 
 Chrome DevTools | Tools for Web Developers | Google Developers
 Introduction | Down and Dirty with Chrome Developer Tools
