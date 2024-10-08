@@ -236,23 +236,23 @@ Write in the console console.log(document.title), what is returned?
 - Directory: `0x01-developer_tools`
 - File: 14-doc_title
 
-15. Web framework
-mandatory
+### 15. Web framework
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Which front-end framework could we guess this page is using?
 
 In your answer file only put the letter of the multiple choice answer from below:
 
-A. React JS
-B. Material Design
-C. Bootstrap
-D. Angular JS
-**Repo:**
+- A. React JS
+- B. Material Design
+- C. Bootstrap
+- D. Angular JS
 
+**Repo:**
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 15-hbtn_framework
+- File: `15-hbtn_framework`
 
 ### 16. Homepage weight
 
