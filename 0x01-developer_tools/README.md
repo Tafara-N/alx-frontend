@@ -352,7 +352,7 @@ Take a screenshot of it
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 23-performance_audit.png
+- File: `23-performance_audit.png`
 
 ### 24. Static assets
 
