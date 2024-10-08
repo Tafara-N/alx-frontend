@@ -421,10 +421,13 @@ End goal of the project
 
 Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
 
-Quiz questions
-Question #0
-What’s the font-size in pixel of an element p.my_class if the default p font-size is 16px?
+## Quiz questions
 
+### Question #0
+
+What’s the `font-size` in pixel of an element `p.my_class` if the default `p font-size` is 16px?
+
+```css
 p {
     font-size: 12px;
 }
