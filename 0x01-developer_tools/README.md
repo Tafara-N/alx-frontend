@@ -323,10 +323,9 @@ Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 The website uses a font library for their icons, which one is it?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 21-hbtn_font_lib
+- File: `21-hbtn_font_lib`
 
 ### 22. XHR calls
 
