@@ -443,9 +443,10 @@ Repo:
 
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 29-how_many_colors.png
-30. Block CSS files
-mandatory
+File: `29-how_many_colors.png`
+
+### 30. Block CSS files
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Block all CSS requests
