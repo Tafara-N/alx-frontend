@@ -43,19 +43,19 @@ Your code should be W3C compliant and validate with W3C-Validator
 
 `favicon.jpg`
 
-![alt text](2ba3a0d7878316de5aaa.jpg)
+![Favicon](favicon.jpg)
 
 ____
 
 `logo-black.png`
 
-![alt text](06f32e89f2a82582234e.png)
+![Logo: Black](logo_black.png)
 
 ____
 
 `logo-white.png`
 
-![alt text](0fa48a04048a2d050cab.png)
+![Logo: White](logo_white.png)
 
 ____
 
