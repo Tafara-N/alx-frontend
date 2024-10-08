@@ -499,7 +499,6 @@ File: 33-ssl_cert
 
 ### 34. Expiration date
 
-mandatory
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 When does the SSL certificate expire?
@@ -507,7 +506,6 @@ When does the SSL certificate expire?
 Take a screenshot of it
 
 Repo:
-
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 34-ssl_expiration.png
+File: `34-ssl_expiration.png`
