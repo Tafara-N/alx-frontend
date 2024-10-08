@@ -142,15 +142,15 @@ How many times click events are referenced in JavaScript files?
 - Directory: `0x01-developer_tools`
 - File: 7-number_of_listeners
 
-8. What is the HSL code
-mandatory
+### 8. What is the HSL code
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 Select the primary button “Send”
 
 What is the equivalent value of the hexadecimal background-color, in HSL?
 
-(format of your answer should be: hsl(<VALUES>);, example: hsl(241, 23%, 24%); following by a new line)
+(format of your answer should be: `hsl(<VALUES>);`, example: `hsl(241, 23%, 24%);` following by a new line)
 
 **Repo:**
 
