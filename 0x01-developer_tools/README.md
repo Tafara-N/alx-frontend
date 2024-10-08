@@ -406,12 +406,12 @@ Which attribute is missing on all the links with the target _blank?
 
 In your answer file only put the letter of the multiple choice answer from below:
 
-A. rel="noopener"
-B. rel="noreferrer"
-C. A and B
-D. rel = "nofollow"
-**Repo:**
+- A. `rel="noopener"`
+- B. `rel="noreferrer"`
+- C. A and B
+- D. `rel = "nofollow"`
 
+**Repo:**
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
 - File: `27-missing_attr`
