@@ -279,30 +279,29 @@ Take a screenshot of it
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 17-requests.png
-18. Number of CSS files
-mandatory
+- File: `17-requests.png`
+
+### 18. Number of CSS files
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 How many CSS resources are loaded on this page?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 18-css_loaded
+- File: `18-css_loaded`
 
-19. Number of images
-mandatory
+### 19. Number of images
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 How many image resources are loaded on this page?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 19-images_loaded
+- File: `19-images_loaded`
 
 ### 20. Favicon image type
 
