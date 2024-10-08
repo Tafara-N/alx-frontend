@@ -865,25 +865,24 @@ p.my_class {
 20px
 
 Question #18
-What’s the font-size in pixel of an element p.my_class?
+What’s the `font-size` in pixel of an element `p.my_class`?
 
+```css
 p {
     font-size: 12px;
 }
 p.my_class {
     font-size: 1em;
 }
+```
 
-16px
+- [ ] 16px
 
+- [ ] 10px
 
-10px
+- [ ] 12px
 
-
-12px
-
-
-14px
+- [ ] 14px
 
 ### Question #19
 
@@ -906,7 +905,7 @@ p.my_class {
 
 - [ ] 16px
 
-Question #20
+### Question #20
 
 What’s the impact of `position: fixed` on an element?
 
