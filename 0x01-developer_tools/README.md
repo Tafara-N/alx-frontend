@@ -308,7 +308,7 @@ How many image resources are loaded on this page?
 
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-What is the type value of the favicon image?
+What is the `type` value of the favicon image?
 
 **Repo:**
 - GitHub repository: `alx-frontend`
