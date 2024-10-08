@@ -431,8 +431,8 @@ You can save it in a `index.html` file and replace the `<link rel='stylesheet' h
 
 ### End goal of the project
 
-![alt text](b9a220ba79af9ede6fc5.png)
-![alt text](b9a220ba79af9ede6fc5-1.png)
+![Final Project](final.png)
+
 Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
 
 ## Quiz questions
