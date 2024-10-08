@@ -304,20 +304,19 @@ How many image resources are loaded on this page?
 - Directory: `0x01-developer_tools`
 - File: 19-images_loaded
 
-20. Favicon image type
-mandatory
+### 20. Favicon image type
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 What is the type value of the favicon image?
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 20-favicon_type
+- File: `20-favicon_type`
 
-21. Font library
-mandatory
+### 21. Font library
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
 The website uses a font library for their icons, which one is it?
