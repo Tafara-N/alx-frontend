@@ -414,12 +414,14 @@ Use the following starter HTML file for your project.
     </footer>
   </body>
 </html>
-You can save it in a index.html file and replace the <link rel='stylesheet' href='#'> by the right CSS file.
+```
 
-End goal of the project
+You can save it in a `index.html` file and replace the `<link rel='stylesheet' href='#'>` by the right CSS file.
+
+### End goal of the project
 
 
-Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
+Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
 
 ## Quiz questions
 
