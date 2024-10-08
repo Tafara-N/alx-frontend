@@ -453,20 +453,19 @@ Block all CSS requests
 Take a screenshot of it
 
 Repo:
-
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
-File: 30-no_css.png
-31. Application panel
-mandatory
+File: `30-no_css.png`
+
+### 31. Application panel
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-The application panel gives you access to the storage (cookies, sessions, cache…) and some other options as Services Workers and more recently, notifications.
+The `application` panel gives you access to the storage (cookies, sessions, cache…) and some other options as Services Workers and more recently, notifications.
 
 What is the only key present in the session storage for this page?
 
 Repo:
-
 GitHub repository: alx-frontend
 Directory: 0x01-developer_tools
 File: `31-session_storage_key`
@@ -475,7 +474,7 @@ File: `31-session_storage_key`
 
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Does this page have any service workers? Yes or No
+Does this page have any service workers? `Yes` or `No`
 
 Repo:
 GitHub repository: alx-frontend
