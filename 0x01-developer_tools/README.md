@@ -396,13 +396,13 @@ Your answer file must contains all classes, example: .my_class.my_second if 2 cl
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x01-developer_tools`
-- File: 26-no_alt
+- File: `26-no_alt`
 
-27. Best practices
-mandatory
+### 27. Best practices
+
 Go to [`https://dev-tools.alx-tools.com/`](https://dev-tools.alx-tools.com/)
 
-Which attribute is missing on all the links with the target _blank?
+Which attribute is missing on all the links with the target `_blank`?
 
 In your answer file only put the letter of the multiple choice answer from below:
 
