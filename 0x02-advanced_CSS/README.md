@@ -885,26 +885,26 @@ p.my_class {
 
 14px
 
-Question #19
-What’s the font-size in pixel of an element p.my_class?
+### Question #19
 
+What’s the `font-size` in pixel of an element `p.my_class`?
+
+```css
 p {
     font-size: 12px;
 }
 p.my_class {
     color: #FF0000;
 }
+```
 
-20px
+- [ ] 20px
 
+- [ ] 10px
 
-10px
+- [ ] 12px
 
-
-12px
-
-
-16px
+- [ ] 16px
 
 Question #20
 
