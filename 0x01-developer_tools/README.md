@@ -36,10 +36,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - A `README.md` file, at the root of the folder of the project, is mandatory
 - Use the newest version of Google Chrome browser (`78.0.3904.70` or later).
 - Screenshots can be taken via the OS, not necessary via the DevTools. These screenshots are used to see how and where you are doing/playing with the DevTools.
-Tasks
-0. Responsive device
-mandatory
-Go to https://dev-tools.alx-tools.com/
+
+## Tasks
+
+### 0. Responsive device
+
+Go to `[https://dev-tools.alx-tools.com/]()`
 
 Take a screenshot of the website using the device toolbar Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering)
 
