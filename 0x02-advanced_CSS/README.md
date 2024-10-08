@@ -746,9 +746,11 @@ Black (default value)
 
 #00FF00
 
-Question #14
-What’s the final color text of <h1> in this code?
+### Question #14
 
+What’s the final color text of `<h1>` in this code?
+
+```html
 <html>
     <head>
         <style>
@@ -767,23 +769,21 @@ What’s the final color text of <h1> in this code?
             <h1 class="title">Hello</h1>
     </body>
 </html>
+```
+
 Please answer without executing the code, just by reading
 
+- [ ] #0000FF
 
-#0000FF
+- [ ] Black (default value)
 
+- [ ] #FF0000
 
-Black (default value)
-
-
-#FF0000
-
-
-#00FF00
+- [ ] #00FF00
 
 ### Question #15
 
-What’s the final color text of <h1> in this code?
+What’s the final color text of `<h1>` in this code?
 
 ```html
 <html>
