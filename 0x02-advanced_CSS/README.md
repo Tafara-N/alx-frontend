@@ -834,37 +834,35 @@ p.my_class {
 
 6px
 
-Question #17
-What’s the font-size in pixel of an element p.my_class if the default p font-size is 16px?
+### Question #17
 
+What’s the `font-size` in pixel of an element `p.my_class` if the default `p font-size` is 16px?
+
+```css
 p {
     font-size: 75%;
 }
 p.my_class {
     font-size: 2.25em;
 }
+```
 
-36px
+- [ ] 36px
 
+- [ ] 12px
 
-12px
+- [ ] 30px
 
+- [ ] 16px
 
-30px
+- [ ] 27px
 
+- [ ] 25px
 
-16px
+- [ ] 20px
 
+### Question #18
 
-27px
-
-
-25px
-
-
-20px
-
-Question #18
 What’s the `font-size` in pixel of an element `p.my_class`?
 
 ```css
