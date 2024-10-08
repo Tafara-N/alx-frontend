@@ -38,26 +38,32 @@ All your files should end with a new line
 All your files should start by a comment describing the task
 A README.md file, at the root of the folder of the project, is mandatory
 Your code should be W3C compliant and validate with W3C-Validator
-Files you need for the project
-favicon.jpg
 
+## Files you need for the project
 
-download favicon.jpg
+`favicon.jpg`
 
-logo-black.png
+![alt text](2ba3a0d7878316de5aaa.jpg)
 
+____
 
-download logo-black.png
+`logo-black.png`
 
-logo-white.png
+![alt text](06f32e89f2a82582234e.png)
 
+____
 
-download logo-white.png
+`logo-white.png`
+
+![alt text](0fa48a04048a2d050cab.png)
+
+____
 
 Store all these under a directory named “images”
 
 Use the following starter HTML file for your project.
 
+```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -420,7 +426,8 @@ You can save it in a `index.html` file and replace the `<link rel='stylesheet' h
 
 ### End goal of the project
 
-
+![alt text](b9a220ba79af9ede6fc5.png)
+![alt text](b9a220ba79af9ede6fc5-1.png)
 Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
 
 ## Quiz questions
