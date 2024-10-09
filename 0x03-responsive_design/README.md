@@ -1,7 +1,8 @@
-Concepts
-For this project, we expect you to look at this concept:
+# Concepts
 
-Responsive web design
+*For this project, we expect you to look at this concept:*
+
+- [Responsive web design](https://intranet.alxswe.com/concepts/546)
 
 
 Resources
