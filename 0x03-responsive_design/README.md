@@ -607,22 +607,23 @@ Using the previous files as the base for this task:
     - Property: `position`, Value: `relative`
     - Property: `transition`, Value: `background .2s ease-out`
 
-Target the `before` and `after` pseudo elements of the `navicon` class inside the `menu-icon` class which is inside the `header` class
+- Target the `before` and `after` pseudo elements of the `navicon` class inside the `menu-icon` class which is inside the `header` class
 
-Property: content, Value: empty string
-Property: display, Value: block
-Property: width, Value: 100%
-Property: height, Value: 100%
-Property: position, Value: absolute
-Property: background, Value: point to the color-white variable
-Property: transition, Value: all .2s ease-out
-Target only the before pseudo element of the navicon class inside the menu-icon class which is inside the header class
+    - Property: `content`, Value: empty string
+    - Property: `display`, Value: `block`
+    - Property: `width`, Value: `100%`
+    - Property: `height`, Value: `100%`
+    - Property: `position`, Value: `absolute`
+    - Property: `background`, Value: point to the `color-white` variable
+    - Property: `transition`, Value: `all .2s ease-out`
 
-Property: top, Value: .7rem
-Target only the after pseudo element of the navicon class inside the menu-icon class which is inside the header class
+- Target only the `before` pseudo element of the `navicon` class inside the `menu-icon` class which is inside the `header` class
+    - Property: `top`, Value: `.7rem`
 
-Property: top, Value: -.7rem
-Rendering of the hamburger on max-width: 767px
+- Target only the `after` pseudo element of the `navicon` class inside the `menu-icon` class which is inside the `header` class
+    - Property: `top`, Value: `-.7rem`
+
+**Rendering of the hamburger on max-width: 767px**
 
 
 
