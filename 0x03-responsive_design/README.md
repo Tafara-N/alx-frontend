@@ -506,23 +506,25 @@ Rendering on screen with max-width: 767px, you can see the navbar is hidden
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 02-1-styles.css, 02-1-index.html
-3. Generate images with responsive breakpoints
-mandatory
-Go to Responsive Breakpoints
+- File: `02-1-styles.css, 02-1-index.html`
+
+### 3. Generate images with responsive breakpoints
+
+Go to [Responsive Breakpoints](https://www.responsivebreakpoints.com/)
 
 In Breakpoints generation settings:
 
-Resolution: From 380 to 1200
-Size step: 25
-Maximum images: 3
-Art-direction: Desktops
-Upload your images one at a time:
-pic-about-01.jpg
-pic-article-01.jpg
-pic-article-02.jpg
-pic-article-03.jpg
-Copy the markup for the <img> tags and replace your current <img> tags with it.
+- Resolution: From `380` to `1200`
+- Size step: `25`
+- Maximum images: `3`
+- Art-direction: `Desktops`
+- Upload your images one at a time:
+    - `pic-about-01.jpg`
+    - `pic-article-01.jpg`
+    - `pic-article-02.jpg`
+    - `pic-article-03.jpg`
+
+- Copy the markup for the <img> tags and replace your current <img> tags with it.
 Download the images and place them into the images directory
 Here’s an example on how to add different resolutions of the same image
 
