@@ -629,26 +629,25 @@ Rendering of the hamburger on max-width: 767px
 - File: `05-index.html, 05-styles.css`
 
 ### 6. Add the behavior based on menu-btn state
-mandatory
-in your CSS - File:
 
-Create a new comment section /* menu btn */
-Target menu-btn class inside header class
-Property: display, Value: none
-Target navbar-menu class when the menu-btn class element is checked
-Property: display, Value: block
-Target nav class inside navbar-menu class when the menu-btn class element is checked
+**in your CSS - File:**
 
-Property: max-height, Value: 100%
-Property: overflow, Value: inherit
-At the end of the /* Section HERO section, create a new media query for max-width: 767px
-
-Target the section-hero class
-Property: margin, Value: -0.1rem 0
-Target the hero-homepage class
-Property: background-position, Value: 85% 0
-Target the section-body class inside section-hero class
-Property: padding, Value: 2rem
+- Create a new comment section `/* menu btn */`
+- Target `menu-btn` class inside `header` class
+    - Property: `display`, Value: `none`
+- Target `navbar-menu` class when the `menu-btn` class element is checked
+    - Property: `display`, Value: `block`
+- Target `nav` class inside `navbar-menu` class when the `menu-btn` class element is checked
+    - Property: `max-height`, Value: `100%`
+    - Property: `overflow`, Value: `inherit`
+- At the end of the /* Section HERO section, create a new media query for max-width: 767px
+-
+- Target the section-hero class
+- Property: margin, Value: -0.1rem 0
+- Target the hero-homepage class
+- Property: background-position, Value: 85% 0
+- Target the section-body class inside section-hero class
+- Property: padding, Value: 2rem
 Going back to the /* menu btn */ section
 
 Target the navicon class inside menu-icon class sibling to the menu-btn when it is checked and inside header class
