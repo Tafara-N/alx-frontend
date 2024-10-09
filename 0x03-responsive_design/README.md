@@ -524,10 +524,13 @@ In Breakpoints generation settings:
     - `pic-article-02.jpg`
     - `pic-article-03.jpg`
 
-- Copy the markup for the <img> tags and replace your current <img> tags with it.
-Download the images and place them into the images directory
+- Copy the markup for the `<img>` tags and replace your current `<img>` tags with it.
+
+- Download the images and place them into the `images` directory
+
 Here’s an example on how to add different resolutions of the same image
 
+```html
 <img
     sizes="(max-width: 3000px) 40vw, 1200px"
     srcset="
@@ -536,8 +539,9 @@ Here’s an example on how to add different resolutions of the same image
       about-us_icoxoo_c_scale,w_1200.jpg 1200w"
     src="about-us_icoxoo_c_scale,w_1200.jpg"
     alt="">
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
 - File: `03-index.html, 03-styles.css`
