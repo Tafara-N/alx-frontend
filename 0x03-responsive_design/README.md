@@ -760,14 +760,15 @@ Rendering on screen of max-width: 767px
 
 ### 10. Fix the top header background
 
-In 10-index.html, in the body tag, add the class article-page
+In `10-index.html`, in the `body` tag, add the class `article-page`
 
-In 10-styles.css, in the /* Section HERO section, just before the media query:
+In `10-styles.css`, in the `/* Section HERO` section, just before the media query:
 
-Target section-hero class inside article-page class
-Property: margin-top, Value: -8.5rem
-Property: padding-top, Value: 5rem
-Rendering of header and section-hero class elements
+- Target `section-hero` class inside `article-page` class
+Property: `margin-top`, Value: `-8.5rem`
+Property: `padding-top`, Value: `5rem`
+
+**Rendering of `header` and `section-hero` class elements**
 
 
 
