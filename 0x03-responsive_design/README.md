@@ -742,13 +742,13 @@ Rendering on screen of max-width: 767px
 
 in `09-styles.css`, in the `/* Footer` section
 
-Create a new media query of `max-width: 767px`.
-Create the `root` global selector. We want to override a CSS variable:
-Variable name: `footer-padding`, Value: `5rem 2rem 1rem`
-Target `.social.nav` inside the `footer` class and the `footer-nav` class inside the `footer` class
-Property: `text-align`, Value: `center`
-Target the adjacent `li` to the `li` inside the `.social.nav` and the adjacent `li` to the `li` inside `.footer-nav` (to easily add a left padding starting on the second `li`)
-Property: `padding-left, Value:2rem`
+- Create a new media query of `max-width: 767px`.
+    - Create the `root` global selector. We want to override a CSS variable:
+        - Variable name: `footer-padding`, Value: `5rem 2rem 1rem`
+    - Target `.social.nav` inside the `footer` class and the `footer-nav` class inside the `footer` class
+        - Property: `text-align`, Value: `center`
+    - Target the adjacent `li` to the `li` inside the `.social.nav` and the adjacent `li` to the `li` inside `.footer-nav` (to easily add a left padding starting on the second `li`)
+        - Property: `padding-left, Value:2rem`
 
 **Rendering on screen of max-width: 767px**
 
