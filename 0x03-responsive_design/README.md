@@ -756,9 +756,10 @@ Rendering on screen of max-width: 767px
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 09-index.html, 09-styles.css
-10. Fix the top header background
-mandatory
+- File: `09-index.html, 09-styles.css`
+
+### 10. Fix the top header background
+
 In 10-index.html, in the body tag, add the class article-page
 
 In 10-styles.css, in the /* Section HERO section, just before the media query:
