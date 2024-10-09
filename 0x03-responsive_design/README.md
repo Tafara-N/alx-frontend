@@ -1129,7 +1129,7 @@ Inside the `/* Comment` section, before the end of the section:
 
 **Rendering on screen of max-width: 767px**
 
-
+![Rendering on screen of max-width: 767px](images/render_max_767.png)
 
 Repo:
 GitHub repository: alx-frontend
