@@ -427,7 +427,7 @@ Final rendering of the Hero section should look something like this
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -446,7 +446,7 @@ Narrow screen:
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -502,7 +502,7 @@ Rendering on screen with max-width: 767px, you can see the navbar is hidden
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -534,7 +534,7 @@ Here’s an example on how to add different resolutions of the same image
       about-us_icoxoo_c_scale,w_1200.jpg 1200w"
     src="about-us_icoxoo_c_scale,w_1200.jpg"
     alt="">
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -579,7 +579,7 @@ Rendering on screen with max-width: 767px, the check box is the input
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -623,7 +623,7 @@ Rendering of the hamburger on max-width: 767px
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -692,7 +692,7 @@ Rendering on desktop screen, menu icon is not visible
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -711,7 +711,7 @@ Target the html element
 Property: font-size, Value 60%
 This is a simple way to achieve responsive typography. More complex options can also be used to have a more granular control over the font sizes.
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -732,7 +732,7 @@ Rendering on screen of max-width: 767px
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -752,7 +752,7 @@ Rendering on screen of max-width: 767px
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -770,7 +770,7 @@ Rendering of header and section-hero class elements
 
 
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
@@ -1131,7 +1131,7 @@ Inside the `/* Comment` section, before the end of the section:
 
 ![Rendering on screen of max-width: 767px](images/render_max_767.png)
 
-Repo:
+**Repo:**
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
 File: `100-article.html, 100-styles.css`
