@@ -731,7 +731,7 @@ Property: `padding`, Value: `2rem 1rem 0 1rem`
 
 **Rendering on screen of max-width: 767px**
 
-
+![Rendering works section on small devices](images/works.png)
 
 **Repo:**
 - GitHub repository: `alx-frontend`
