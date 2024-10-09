@@ -771,10 +771,9 @@ Rendering of header and section-hero class elements
 
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 10-index.html, 10-styles.css
+- File: `10-index.html, 10-styles.css`
 
 ### 11. Make the article page responsive
 
