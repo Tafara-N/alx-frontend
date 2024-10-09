@@ -752,7 +752,7 @@ in `09-styles.css`, in the `/* Footer` section
 
 **Rendering on screen of max-width: 767px**
 
-
+![Rendering the footer on small devices](images/footer.png)
 
 **Repo:**
 - GitHub repository: `alx-frontend`
