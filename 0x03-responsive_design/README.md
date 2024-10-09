@@ -658,13 +658,13 @@ Going back to the `/* menu btn */` section
     - Property: `background`, Value: `transparent`
 
 - Target the before state of `navicon` class inside `menu-icon` class sibling to the `menu-btn` when it is checked and inside `header` class element
-- Property: transform, Value: rotate(-45deg)
+    - Property: `transform`, Value: `rotate(-45deg)`
 
-- Target the after state of navicon class inside menu-icon class sibling to the menu-btn when it is checked and inside header class element
-- Property: transform, Value: rotate(45deg)
+- Target the after state of `navicon` class inside `menu-icon` class sibling to the `menu-btn` when it is checked and inside `header` class element
+    - Property: `transform`, Value: `rotate(45deg)`
 
-- Target the before and after states of navicon class when inside menu-icon class sibling to the menu-btn class when it is checked and inside header class
-- Property: top, Value: 0
+- Target the before and after states of `navicon` class when inside `menu-icon` class sibling to the `menu-btn` class when it is checked and inside `header` class
+    - Property: `top`, Value: `0`
 
 - Create a new media query for max-width: 767px
 
