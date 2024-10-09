@@ -430,7 +430,7 @@ Final rendering of the Hero section should look something like this
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 01-styles.css, 01-index.html
 1. Make the container flexible
 mandatory
@@ -449,7 +449,7 @@ Narrow screen:
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 02-styles.css, 02-index.html
 2. Fix layout issues
 mandatory
@@ -505,7 +505,7 @@ Rendering on screen with max-width: 767px, you can see the navbar is hidden
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 02-1-styles.css, 02-1-index.html
 3. Generate images with responsive breakpoints
 mandatory
@@ -537,7 +537,7 @@ Here’s an example on how to add different resolutions of the same image
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 03-index.html, 03-styles.css
 4. Create the mobile icon and hide the menu
 mandatory
@@ -582,7 +582,7 @@ Rendering on screen with max-width: 767px, the check box is the input
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 04-index.html, 04-styles.css
 5. Hamburger!
 mandatory
@@ -626,7 +626,7 @@ Rendering of the hamburger on max-width: 767px
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 05-index.html, 05-styles.css
 6. Add the behavior based on menu-btn state
 mandatory
@@ -695,7 +695,7 @@ Rendering on desktop screen, menu icon is not visible
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 06-index.html, 06-styles.css
 7. Make the font size responsive
 mandatory
@@ -714,7 +714,7 @@ This is a simple way to achieve responsive typography. More complex options can 
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 07-index.html, 07-styles.css
 8. Improve the "Works" section
 mandatory
@@ -735,7 +735,7 @@ Rendering on screen of max-width: 767px
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 08-index.html, 08-styles.css
 9. Improve the "Footer" section
 mandatory
@@ -755,7 +755,7 @@ Rendering on screen of max-width: 767px
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 09-index.html, 09-styles.css
 10. Fix the top header background
 mandatory
@@ -773,7 +773,7 @@ Rendering of header and section-hero class elements
 **Repo:**
 
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: 10-index.html, 10-styles.css
 11. Make the article page responsive
 #advanced
@@ -1133,5 +1133,5 @@ Inside the `/* Comment` section, before the end of the section:
 
 **Repo:**
 - GitHub repository: `alx-frontend`
-Directory: 0x03-responsive_design
+- Directory: `0x03-responsive_design`
 File: `100-article.html, 100-styles.css`
