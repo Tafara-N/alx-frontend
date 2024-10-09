@@ -4,6 +4,8 @@
 
 - [Responsive web design](https://intranet.alxswe.com/concepts/546)
 
+![Unresponsive design meme](images/unresponsive_meme.jpg)
+
 # Resources
 
 **Read or watch:**
