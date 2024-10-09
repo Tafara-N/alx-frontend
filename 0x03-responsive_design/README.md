@@ -624,11 +624,11 @@ Rendering of the hamburger on max-width: 767px
 
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 05-index.html, 05-styles.css
-6. Add the behavior based on menu-btn state
+- File: `05-index.html, 05-styles.css`
+
+### 6. Add the behavior based on menu-btn state
 mandatory
 in your CSS - File:
 
@@ -680,20 +680,19 @@ Target the header-logo class
 Property: flex-basis, Value: 79%
 Find the .header .menu-icon selector and add display: none; to hide the menu icon when we are on desktop mode.
 
-Rendering on screen with max-width: 767px, when the input is unchecked the menu is not displayed
+**Rendering on screen with max-width: 767px, when the input is unchecked the menu is not displayed**
 
+![Rendering menu on 767px max width unchecked](images/menu_767_unchecked.png)
 
+**Rendering on screen with max-width: 767 px, when input is checked the menu block is displayed**
 
-Rendering on screen with max-width: 767 px, when input is checked the menu block is displayed
+![Rendering menu on 767px max width](images/menu_767.png)
 
+**Rendering on desktop screen, menu icon is not visible**
 
-
-Rendering on desktop screen, menu icon is not visible
-
-
+![Rendering menu on desktop](images/menu_desktop.png)
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
 - File: 06-index.html, 06-styles.css
