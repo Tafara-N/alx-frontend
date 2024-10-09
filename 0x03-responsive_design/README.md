@@ -400,14 +400,16 @@ Starter files
     </footer>
   </body>
 </html>
+```
 
+`00-styles.css`
 
-00-styles.css
 Click to expand/hide file contents
-Images
-Use the images that you downloaded in the CSS Advanced project and place them into an images directory at the root of the project.
 
-Or some basics assets from this archive.zip
+### Images
+Use the images that you downloaded in the `CSS Advanced` project and place them into an `images` directory at the root of the project.
+
+Or some basics assets from this [archive.zip](archive.zip)
 
 ## Tasks
 
@@ -425,9 +427,9 @@ In your `01-styles.css` file
 - Inside the selector that targets `section-inner` class inside `section-hero` class
     - Update the `min-height` to `35vh`
 
-Final rendering of the Hero section should look something like this
+**Final rendering of the Hero section should look something like this**
 
-
+![Final rendering of hero section](images/hero_final.png)
 
 **Repo:**
 - GitHub repository: `alx-frontend`
