@@ -1110,8 +1110,8 @@ inside the `/* Post` section, before the end of the section:
     - Property: `margin`, Value: `0 2rem`
 - Create a new media query of `max-width: 767px`
     - Target the `post` class
-Property: `flex-direction`, Value: `column`
-Property: `margin`, Value: `2rem`
+        - Property: `flex-direction`, Value: `column`
+        - Property: `margin`, Value: `2rem`
 Target the `post-content` class
 Property: `padding-left`, Value: `0`
 
