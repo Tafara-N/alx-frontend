@@ -1125,7 +1125,7 @@ Inside the `/* Comment` section, before the end of the section:
 
 **Rendering on desktop screen**
 
-
+![Rendering on desktop screen](images/render_desktop.png)
 
 **Rendering on screen of max-width: 767px**
 
