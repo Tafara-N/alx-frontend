@@ -640,14 +640,14 @@ Rendering of the hamburger on max-width: 767px
 - Target `nav` class inside `navbar-menu` class when the `menu-btn` class element is checked
     - Property: `max-height`, Value: `100%`
     - Property: `overflow`, Value: `inherit`
-- At the end of the /* Section HERO section, create a new media query for max-width: 767px
--
-- Target the section-hero class
-- Property: margin, Value: -0.1rem 0
-- Target the hero-homepage class
-- Property: background-position, Value: 85% 0
-- Target the section-body class inside section-hero class
-- Property: padding, Value: 2rem
+- At the end of the `/* Section HERO` section, create a new media query for `max-width: 767px`
+    - Target the `section-hero` class
+        - Property: `margin`, Value: `-0.1rem 0`
+    - Target the `hero-homepage` class
+        - Property: `background-position`, Value: `85% 0`
+- Target the `section-body` class inside `section-hero` class
+        - Property: `padding`, Value: `2rem`
+        
 Going back to the /* menu btn */ section
 
 Target the navicon class inside menu-icon class sibling to the menu-btn when it is checked and inside header class
