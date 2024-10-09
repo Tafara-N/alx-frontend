@@ -1112,8 +1112,8 @@ inside the `/* Post` section, before the end of the section:
     - Target the `post` class
         - Property: `flex-direction`, Value: `column`
         - Property: `margin`, Value: `2rem`
-Target the `post-content` class
-Property: `padding-left`, Value: `0`
+    - Target the `post-content` class
+        - Property: `padding-left`, Value: `0`
 
 Inside the `/* Comment` section, before the end of the section:
 
