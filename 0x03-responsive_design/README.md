@@ -737,23 +737,24 @@ Rendering on screen of max-width: 767px
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
 - File: 08-index.html, 08-styles.css
-9. Improve the "Footer" section
-mandatory
-in 09-styles.css, in the /* Footer section
 
-Create a new media query of max-width: 767px.
-Create the root global selector. We want to override a CSS variable:
-Variable name: footer-padding, Value: 5rem 2rem 1rem
-Target .social.nav inside the footer class and the footer-nav class inside the footer class
-Property: text-align, Value: center
-Target the adjacent lito the li inside the .social.nav and the adjacent li to the li inside .footer-nav (to easily add a left padding starting on the second li)
-Property: padding-left, Value:2rem
-Rendering on screen of max-width: 767px
+### 9. Improve the "Footer" section
+
+in `09-styles.css`, in the `/* Footer` section
+
+Create a new media query of `max-width: 767px`.
+Create the `root` global selector. We want to override a CSS variable:
+Variable name: `footer-padding`, Value: `5rem 2rem 1rem`
+Target `.social.nav` inside the `footer` class and the `footer-nav` class inside the `footer` class
+Property: `text-align`, Value: `center`
+Target the adjacent `li` to the `li` inside the `.social.nav` and the adjacent `li` to the `li` inside `.footer-nav` (to easily add a left padding starting on the second `li`)
+Property: `padding-left, Value:2rem`
+
+**Rendering on screen of max-width: 767px**
 
 
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
 - File: `09-index.html, 09-styles.css`
