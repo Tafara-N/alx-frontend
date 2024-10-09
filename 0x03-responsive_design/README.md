@@ -666,25 +666,28 @@ Going back to the `/* menu btn */` section
 - Target the before and after states of `navicon` class when inside `menu-icon` class sibling to the `menu-btn` class when it is checked and inside `header` class
     - Property: `top`, Value: `0`
 
-- Create a new media query for max-width: 767px
+- Create a new media query for `max-width: 767px`
 
-- Target the root and redefine the header-padding variable with 2rem 0 0
-- Target header class
-- Property: background, Value: point to the color-black variable
-- Target the header-container class
-- Property: flex-wrap, Value: wrap
-- Property: padding, Value: 0 1.5rem
-- Target the menu-icon class inside the header class
-- Property: display, Value: block
-- Create a new media query for max-width: 480px
+    - Target the root and redefine the `header-padding` variable with `2rem 0 0`
+    - Target `header` class
+        - Property: `background`, Value: point to the `color-black` variable
+    - Target the `header-container` class
+        - Property: `flex-wrap`, Value: `wrap`
+        - Property: `padding`, Value: `0 1.5rem`
+    - Target the `menu-icon` class inside the `header` class
+        - Property: `display`, Value: `block`
 
-Target the header-logo class
-Property: flex-basis, Value: 70%
-Create a new media query with min-width: 481px and max-width: 767px
+- Create a new media query for `max-width: 480px`
 
-Target the header-logo class
-Property: flex-basis, Value: 79%
-Find the .header .menu-icon selector and add display: none; to hide the menu icon when we are on desktop mode.
+    Target the `header-logo` class
+        Property: `flex-basis`, Value: `70%`
+
+- Create a new media query with `min-width: 481px` and `max-width: 767px`
+
+    - Target the `header-logo` class
+        - Property: `flex-basis`, Value: `79%`
+        
+- Find the `.header .menu-icon` selector and add `display: none;` to hide the menu icon when we are on desktop mode.
 
 **Rendering on screen with max-width: 767px, when the input is unchecked the menu is not displayed**
 
