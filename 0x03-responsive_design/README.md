@@ -30,7 +30,7 @@ Wireframe of the Techium project - mobile version
 
 ### Starter files
 
-[`00-index.html`]()
+[`00-index.html`](00-index.html)
 ____
 
 [`00-styles.css`](00-styles.css)
