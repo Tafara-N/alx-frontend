@@ -770,7 +770,7 @@ Property: `padding-top`, Value: `5rem`
 
 **Rendering of `header` and `section-hero` class elements**
 
-
+![Rendering of header and section-hero class elements](images/header.png)
 
 **Repo:**
 - GitHub repository: `alx-frontend`
