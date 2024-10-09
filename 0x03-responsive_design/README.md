@@ -431,7 +431,7 @@ Final rendering of the Hero section should look something like this
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 01-styles.css, 01-index.html
+- File: 01-styles.css, 01-index.html
 1. Make the container flexible
 mandatory
 Using the previous file as the base, in your 02-styles.css file update the .container selector by changing width to max-width
@@ -450,7 +450,7 @@ Narrow screen:
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 02-styles.css, 02-index.html
+- File: 02-styles.css, 02-index.html
 2. Fix layout issues
 mandatory
 Whatever the browser you use, it’s a good idea from now on, to toggle the device view.
@@ -463,7 +463,7 @@ For tablet / medium styles (max-width: 767px)
 For mobile styles (max-width: 480px)
 We will put media queries at the end of each section to facilitate the reading but for performance reasons, the best practice is to unifiy all similar breakpoints at the end of the CSS file.
 
-In your 02-1-styles.css file:
+In your 02-1-styles.css - File:
 
 inside the /* Helpers section target all images inside the main section
 
@@ -506,7 +506,7 @@ Rendering on screen with max-width: 767px, you can see the navbar is hidden
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 02-1-styles.css, 02-1-index.html
+- File: 02-1-styles.css, 02-1-index.html
 3. Generate images with responsive breakpoints
 mandatory
 Go to Responsive Breakpoints
@@ -538,7 +538,7 @@ Here’s an example on how to add different resolutions of the same image
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 03-index.html, 03-styles.css
+- File: 03-index.html, 03-styles.css
 4. Create the mobile icon and hide the menu
 mandatory
 We want to have a clickable icon that shows and hide our navigation. We don’t want to use JavaScript but find a pure HTML / CSS way. We learned that input type checkbox have a checked - unchecked state. So we are going to use this for our menu.
@@ -583,7 +583,7 @@ Rendering on screen with max-width: 767px, the check box is the input
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 04-index.html, 04-styles.css
+- File: 04-index.html, 04-styles.css
 5. Hamburger!
 mandatory
 Let’s now, use a little bit of CSS magic to create an “hamburger” icon just with CSS.
@@ -627,10 +627,10 @@ Rendering of the hamburger on max-width: 767px
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 05-index.html, 05-styles.css
+- File: 05-index.html, 05-styles.css
 6. Add the behavior based on menu-btn state
 mandatory
-in your CSS file:
+in your CSS - File:
 
 Create a new comment section /* menu btn */
 Target menu-btn class inside header class
@@ -696,7 +696,7 @@ Rendering on desktop screen, menu icon is not visible
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 06-index.html, 06-styles.css
+- File: 06-index.html, 06-styles.css
 7. Make the font size responsive
 mandatory
 We have multiple ways to make the typography responsive. The basic way would be to create multiple media queries and set a different font-size. But because we are using REM that are based on 62.5% (defined in the html selector). Changing that value would change proportionally all font sizes.
@@ -715,7 +715,7 @@ This is a simple way to achieve responsive typography. More complex options can 
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 07-index.html, 07-styles.css
+- File: 07-index.html, 07-styles.css
 8. Improve the "Works" section
 mandatory
 in 08-styles.css, at the end of the /* Card WORK
@@ -736,7 +736,7 @@ Rendering on screen of max-width: 767px
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 08-index.html, 08-styles.css
+- File: 08-index.html, 08-styles.css
 9. Improve the "Footer" section
 mandatory
 in 09-styles.css, in the /* Footer section
@@ -756,7 +756,7 @@ Rendering on screen of max-width: 767px
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 09-index.html, 09-styles.css
+- File: 09-index.html, 09-styles.css
 10. Fix the top header background
 mandatory
 In 10-index.html, in the body tag, add the class article-page
@@ -774,7 +774,7 @@ Rendering of header and section-hero class elements
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: 10-index.html, 10-styles.css
+- File: 10-index.html, 10-styles.css
 11. Make the article page responsive
 #advanced
 use the following article.html for this task
@@ -1134,4 +1134,4 @@ Inside the `/* Comment` section, before the end of the section:
 **Repo:**
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-File: `100-article.html, 100-styles.css`
+- File: `100-article.html, 100-styles.css`
