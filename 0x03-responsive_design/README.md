@@ -734,10 +734,9 @@ Property: `padding`, Value: `2rem 1rem 0 1rem`
 
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 08-index.html, 08-styles.css
+- File: `08-index.html, 08-styles.css`
 
 ### 9. Improve the "Footer" section
 
