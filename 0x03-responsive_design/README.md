@@ -450,10 +450,11 @@ Narrow screen:
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 02-styles.css, 02-index.html
-2. Fix layout issues
-mandatory
-Whatever the browser you use, it’s a good idea from now on, to toggle the device view.
+- File: `02-styles.css, 02-index.html`
+
+### 2. Fix layout issues
+
+Whatever the browser you use, it’s a good idea from now on, to [toggle the device view](https://developer.chrome.com/docs/devtools/).
 
 In a normal situation, you should start with “mobile first” in mind and write your CSS first for the mobile. But because we already have a desktop version, we will exceptionally add some media-queries for mobile and tablet.
 
@@ -503,7 +504,6 @@ Rendering on screen with max-width: 767px, you can see the navbar is hidden
 
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
 - File: `02-1-styles.css, 02-1-index.html`
