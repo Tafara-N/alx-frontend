@@ -1118,7 +1118,7 @@ inside the `/* Post` section, before the end of the section:
 Inside the `/* Comment` section, before the end of the section:
 
 - Create a new media query of `max-width: 767px`
-Target `post-comments` class
+    - Target `post-comments` class
 Property: `width`, Value: `calc(100% - 4rem)`
 Property: `margin`, Value: `2rem`
 Property: `padding`, Value: `0`
