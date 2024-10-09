@@ -1100,35 +1100,38 @@ use the following article.html for this task
     </footer>
   </body>
 </html>
-in 100-styles.css (from 10-styles.css)
+```
 
-inside the /* Post section, before the end of the section:
+in `100-styles.css` (from `10-styles.css`)
 
-Target the post class
-Property: margin, Value: 0 2rem
-Create a new media query of max-width: 767px
-Target the post class
-Property: flex-direction, Value: column
-Property: margin, Value: 2rem
-Target the post-content class
-Property: padding-left, Value: 0
-Inside the /* Comment section, before the end of the section:
+inside the `/* Post` section, before the end of the section:
 
-Create a new media query of max-width: 767px
-Target post-comments class
-Property: width, Value: calc(100% - 4rem)
-Property: margin, Value: 2rem
-Property: padding, Value: 0
-Rendering on desktop screen
+- Target the `post` class
+    - Property: `margin`, Value: `0 2rem`
+Create a new media query of `max-width: 767px`
+Target the `post` class
+Property: `flex-direction`, Value: `column`
+Property: `margin`, Value: `2rem`
+Target the `post-content` class
+Property: `padding-left`, Value: `0`
+
+Inside the `/* Comment` section, before the end of the section:
+
+Create a new media query of `max-width: 767px`
+Target `post-comments` class
+Property: `width`, Value: `calc(100% - 4rem)`
+Property: `margin`, Value: `2rem`
+Property: `padding`, Value: `0`
+
+**Rendering on desktop screen**
 
 
 
-Rendering on screen of max-width: 767px
+**Rendering on screen of max-width: 767px**
 
 
 
 Repo:
-
 GitHub repository: alx-frontend
 Directory: 0x03-responsive_design
 File: `100-article.html, 100-styles.css`
