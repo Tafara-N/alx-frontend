@@ -538,49 +538,54 @@ Here’s an example on how to add different resolutions of the same image
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 03-index.html, 03-styles.css
-4. Create the mobile icon and hide the menu
-mandatory
+- File: `03-index.html, 03-styles.css`
+
+### 4. Create the mobile icon and hide the menu
+
 We want to have a clickable icon that shows and hide our navigation. We don’t want to use JavaScript but find a pure HTML / CSS way. We learned that input type checkbox have a checked - unchecked state. So we are going to use this for our menu.
 
 Using the previous files as the base for this project
 
-Changes to the HTML
+**Changes to the HTML**
 
-Just before the <nav class="navbar-menu">
+Just before the `<nav class="navbar-menu">`
 
-Create an input (which will be not visible)
+- Create an input (which will be not visible)
 
-Class: menu-btn
-Type: checkbox
-Id: menu-btn
-Create a label
+    - Class: `menu-btn`
+    - Type: `checkbox`
+    - Id: `menu-btn`
 
-Class: menu-icon
-For: menu-btn
-In the label create an empty span with the navicon class.
-Changes to the CSS
+- Create a label
 
-Inside the /* Navbar section, and inside the 767px media query
+    - Class: `menu-icon`
+    - For: `menu-btn`
+    - In the label create an empty `span` with the `navicon` class.
 
-Create the root global selector. We want to override a CSS variable:
+**Changes to the CSS**
 
-Variable name: nav-item-margin, Value: 0
-In the selector for the navbar-menu class
+Inside the `/* Navbar` section, and inside the `767px` media query
 
-Property: flex, Value: 1
-Target the nav class in header class
+- Create the `root` global selector. We want to override a CSS variable:
 
-Property: flex-direction, Value: column (for the element of the menu be below each other)
-Property: overflow, Value: hidden
-Property: max-height, Value: 0 (the display property can’t be animated, so we use the height that can be animated)
-Property: transition, Value: max-height .2s ease-out
-Rendering on screen with max-width: 767px, the check box is the input
+    - Variable name: `nav-item-margin`, Value: `0`
 
+- In the selector for the `navbar-menu` class
 
+    - Property: `flex`, Value: `1`
+
+- Target the `nav` class in `header` class
+
+    - Property: `flex-direction`, Value: `column` (for the element of the menu be below each other)
+    - Property: `overflow`, Value: `hidden`
+    - Property: `max-height`, Value: `0` (the display property can’t be animated, so we use the height that can be animated)
+    - Property: `transition`, Value: `max-height .2s ease-out`
+
+**Rendering on screen with max-width: 767px, the check box is the input**
+
+![Rendering mobile icon on 767px max width](images/mobile_icon.png)
 
 **Repo:**
-
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
 - File: `04-index.html, 04-styles.css`
@@ -625,7 +630,7 @@ Using the previous files as the base for this task:
 
 **Rendering of the hamburger on max-width: 767px**
 
-
+![img](images/hamburger.png)
 
 **Repo:**
 - GitHub repository: `alx-frontend`
