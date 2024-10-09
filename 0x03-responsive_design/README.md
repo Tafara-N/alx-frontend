@@ -4,15 +4,15 @@
 
 - [Responsive web design](https://intranet.alxswe.com/concepts/546)
 
+# Resources
 
-Resources
-Read or watch:
+**Read or watch:**
 
-The building blocks of responsive design - Progressive web apps | MDN
-A pragmatic guide to designing and building responsive web applications | developerlife.com
-Understanding the difference between mobile-first, adaptive and responsive design
-LukeW | Mobile First
-Responsive Design Newsletter
+- [The building blocks of responsive design - Progressive web apps | MDN]()
+- [A pragmatic guide to designing and building responsive web applications | developerlife.com]()
+- [Understanding the difference between mobile-first, adaptive and responsive design]()
+- [LukeW | Mobile First]()
+- [Responsive Design Newsletter]()
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
