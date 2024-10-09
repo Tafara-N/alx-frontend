@@ -13,9 +13,9 @@ ____
 
 # Description
 
-This repository contains projects on Frontend development.
+- This repository contains projects on Frontend development.
 
-The projects are based on HTML, CSS, JavaScript and React.
+- The projects are based on HTML, CSS, JavaScript and React.
 
 ## Concepts
 
