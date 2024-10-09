@@ -1102,7 +1102,7 @@ use the following article.html for this task
 </html>
 ```
 
-in `100-styles.css` (from `10-styles.css`)
+**in `100-styles.css`** (from `10-styles.css`)
 
 inside the `/* Post` section, before the end of the section:
 
