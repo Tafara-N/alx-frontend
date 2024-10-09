@@ -633,43 +633,50 @@ Rendering of the hamburger on max-width: 767px
 **in your CSS - File:**
 
 - Create a new comment section `/* menu btn */`
+
 - Target `menu-btn` class inside `header` class
     - Property: `display`, Value: `none`
+
 - Target `navbar-menu` class when the `menu-btn` class element is checked
     - Property: `display`, Value: `block`
+
 - Target `nav` class inside `navbar-menu` class when the `menu-btn` class element is checked
     - Property: `max-height`, Value: `100%`
     - Property: `overflow`, Value: `inherit`
+
 - At the end of the `/* Section HERO` section, create a new media query for `max-width: 767px`
     - Target the `section-hero` class
         - Property: `margin`, Value: `-0.1rem 0`
     - Target the `hero-homepage` class
         - Property: `background-position`, Value: `85% 0`
-- Target the `section-body` class inside `section-hero` class
+    - Target the `section-body` class inside `section-hero` class
         - Property: `padding`, Value: `2rem`
-        
-Going back to the /* menu btn */ section
 
-Target the navicon class inside menu-icon class sibling to the menu-btn when it is checked and inside header class
-Property: background, Value: transparent
-Target the before state of navicon class inside menu-icon class sibling to the menu-btn when it is checked and inside header class element
-Property: transform, Value: rotate(-45deg)
-Target the after state of navicon class inside menu-icon class sibling to the menu-btn when it is checked and inside header class element
-Property: transform, Value: rotate(45deg)
-Target the before and after states of navicon class when inside menu-icon class sibling to the menu-btn class when it is checked and inside header class
+Going back to the `/* menu btn */` section
 
-Property: top, Value: 0
-Create a new media query for max-width: 767px
+- Target the `navicon` class inside `menu-icon` class sibling to the `menu-btn` when it is checked and inside `header` class
+    - Property: `background`, Value: `transparent`
 
-Target the root and redefine the header-padding variable with 2rem 0 0
-Target header class
-Property: background, Value: point to the color-black variable
-Target the header-container class
-Property: flex-wrap, Value: wrap
-Property: padding, Value: 0 1.5rem
-Target the menu-icon class inside the header class
-Property: display, Value: block
-Create a new media query for max-width: 480px
+- Target the before state of `navicon` class inside `menu-icon` class sibling to the `menu-btn` when it is checked and inside `header` class element
+- Property: transform, Value: rotate(-45deg)
+
+- Target the after state of navicon class inside menu-icon class sibling to the menu-btn when it is checked and inside header class element
+- Property: transform, Value: rotate(45deg)
+
+- Target the before and after states of navicon class when inside menu-icon class sibling to the menu-btn class when it is checked and inside header class
+- Property: top, Value: 0
+
+- Create a new media query for max-width: 767px
+
+- Target the root and redefine the header-padding variable with 2rem 0 0
+- Target header class
+- Property: background, Value: point to the color-black variable
+- Target the header-container class
+- Property: flex-wrap, Value: wrap
+- Property: padding, Value: 0 1.5rem
+- Target the menu-icon class inside the header class
+- Property: display, Value: block
+- Create a new media query for max-width: 480px
 
 Target the header-logo class
 Property: flex-basis, Value: 70%
