@@ -583,28 +583,31 @@ Rendering on screen with max-width: 767px, the check box is the input
 
 - GitHub repository: `alx-frontend`
 - Directory: `0x03-responsive_design`
-- File: 04-index.html, 04-styles.css
-5. Hamburger!
-mandatory
+- File: `04-index.html, 04-styles.css`
+
+### 5. Hamburger!
+
 Let’s now, use a little bit of CSS magic to create an “hamburger” icon just with CSS.
 
 Using the previous files as the base for this task:
 
-Target the menu-icon class inside the header class
+- Target the `menu-icon` class inside the `header` class
 
-Property: cursor, Value: pointer
-Property: padding, Value: 2.5rem
-Property: position, Value: relative
-Property: user-select, Value: none
-Target the navicon class inside themenu-icon class which is inside the header class
+    - Property: `cursor`, Value: `pointer`
+    - Property: `padding`, Value: `2.5rem`
+    - Property: `position`, Value: `relative`
+    - Property: `user-select`, Value: `none`
 
-Property: background, Value: point to the color-white variable
-Property: display, Value: block
-Property: width, Value: 2rem
-Property: height, Value: .2rem
-Property: position, Value: relative
-Property: transition, Value: background .2s ease-out
-Target the before and after pseudo elements of the navicon class inside the menu-icon class which is inside the header class
+- Target the `navicon` class inside the `menu-icon` class which is inside the `header` class
+
+    - Property: `background`, Value: point to the `color-white` variable
+    - Property: `display`, Value: `block`
+    - Property: `width`, Value: `2rem`
+    - Property: `height`, Value: `.2rem`
+    - Property: `position`, Value: `relative`
+    - Property: `transition`, Value: `background .2s ease-out`
+
+Target the `before` and `after` pseudo elements of the `navicon` class inside the `menu-icon` class which is inside the `header` class
 
 Property: content, Value: empty string
 Property: display, Value: block
@@ -686,7 +689,7 @@ Going back to the `/* menu btn */` section
 
     - Target the `header-logo` class
         - Property: `flex-basis`, Value: `79%`
-        
+
 - Find the `.header .menu-icon` selector and add `display: none;` to hide the menu icon when we are on desktop mode.
 
 **Rendering on screen with max-width: 767px, when the input is unchecked the menu is not displayed**
